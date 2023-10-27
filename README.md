@@ -1,49 +1,31 @@
 # Faça seu TODO-LIST
 https://todo-list-react-590xlcj8c-mendesjuh.vercel.app
 
-# Getting Started with Create React App
+# Readme - To-Do List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um simples guia para entender e usar a aplicação de Lista de Tarefas (To-Do List). Este aplicativo permite que você mantenha o controle de suas tarefas diárias, organizando-as em uma lista acessível e fácil de usar.
 
-## Available Scripts
+# Como funciona
 
-In the project directory, you can run:
+A aplicação To-Do List é uma ferramenta de gerenciamento de tarefas que permite:
 
-### `npm start`
+- **Adicionar tarefas:** Você pode adicionar novas tarefas à sua lista a qualquer momento. Basta digitar a tarefa na caixa de texto e pressionar "Adicionar" ou a tecla "Enter".
+- **Marcar tarefas como concluídas:** Quando você completa uma tarefa, pode marcá-la como concluída clicando na caixa de seleção ao lado dela. A tarefa será então exibida como concluída.
+**Remover tarefas:** Para excluir uma tarefa, basta clicar no ícone de lixeira ao lado dela. A tarefa será removida permanentemente da lista.
+**Editar tarefas:** Se precisar fazer alterações em uma tarefa, clique no ícone de lápis ao lado dela. Isso permitirá que você edite o texto da tarefa.
+**Priorizar tarefas:** Você pode usar cores ou ícones para indicar a prioridade das tarefas. Por exemplo, pode usar vermelho para tarefas urgentes e verde para tarefas menos importantes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Dicas de uso
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Aqui estão algumas dicas para aproveitar ao máximo o To-Do List:
 
-### `npm test`
+- Crie uma lista de tarefas diárias, semanais ou mensais para manter o controle de suas obrigações.
+- Estabeleça prioridades nas tarefas, dando ênfase às mais importantes.
+- Use as funcionalidades de edição para atualizar informações sobre as tarefas, como datas de vencimento ou detalhes adicionais.
+- Limpe sua lista regularmente, marcando tarefas como concluídas e excluindo aquelas que não são mais relevantes.
+- Mantenha a lista acessível em seu navegador ou dispositivo móvel para que você possa atualizá-la rapidamente, onde quer que esteja.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Contribuição
 
-### `npm run build`
+Este aplicativo é de código aberto e está disponível no GitHub. Se você deseja contribuir para o desenvolvimento fique a vontade.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
